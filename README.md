@@ -21,4 +21,4 @@ Thanks to Custom Icon Design for the flag icons: [link](http://www.customicondes
 Thanks to FatCow WebHosting for the ruby icon, that has been slightly altered, the medal icon and, the flame icon: [link](http://www.fatcow.com/free-icons/) [Creative Commons](http://creativecommons.org/licenses/by/3.0/us/).  
 Thanks to IconFinder for finding my icons.  
 
-
+Please note: I'm still learning to monkey-patch extensions, so it may not work.
